@@ -1,2 +1,2 @@
 # OS-dev
-Little hobby project of mine, dabbeling in OS development.
+Little hobby project of mine, dabbling in OS development.
